@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="conoce_tu_futuro">Conoce tu futuro</string>
+    <string name="conoce_tu_futuro">Conoce tu futuro</string>
+    <string name="escribe_tu_mensaje">ESCRIBE TU MENSAJE</string>
+    <string name="todo">TODO</string>
+    <string name="ingresa_una_duda">INGRESA UNA DUDA</string>
+    <string name="bola_magica">BOLA MAGICA</string>
+    <string name="udp">UDP</string>
+    <string name="preguntale_algo">Preguntale algo...</string>
 </resources>
